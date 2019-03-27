@@ -1,6 +1,6 @@
 title: Example project
 description: Project description in here.
-theme: Midnight
+theme: minima
 header_pages:
  - about.md
  - team.md
